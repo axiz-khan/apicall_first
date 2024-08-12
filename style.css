@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+    color: black;
+}
+button{
+    background-color: black;
+    color: azure;
+}
+#dogi{
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    border: 2px solid black;
+}
